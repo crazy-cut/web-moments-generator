@@ -1,0 +1,17 @@
+{
+	"pluginName": "朋友圈生成器",
+	"version": "1.0.0",
+	"description": "自定义生成微信朋友圈截图",
+	"author": "CRAZY CUT",
+	"homepage": "",
+	"main": "index.html",
+	"preload": "preload.js",
+	"logo": "logo.png",
+	"features": [
+		{
+			"code": "moments_generator",
+			"explain": "打开朋友圈生成器",
+			"cmds": ["朋友圈", "微信", "pyq", "moments"]
+		}
+	]
+}
